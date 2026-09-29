@@ -1,0 +1,69 @@
+SCENE CONTEXT
+EXACT 3 CHARACTERS — NO DUPLICATES: the grandfather, the son, the daughter.
+Locked-off wide shot: the son, on the fourth step of a wooden ladder, hooks both ends of an unlit string of lights onto the bare far wall of a family majlis while the daughter hands it up and the grandfather steadies the ladder. Afternoon, first day of Ramadan. Real-time speed: every movement at natural human speed.
+
+ACTIVE REFERENCES
+@char_c1-grandfather_v1 for character reference: lean, slightly stooped elder, neat white beard, white knitted cap, gold-rimmed glasses, white thobe with a standing mandarin collar and buttons, barefoot. 100% matches the reference.
+@char_c5-son_v1 for character reference: the son, white thobe with a standing mandarin collar, barefoot. 100% matches the reference.
+@char_c6-daughter_v1 for character reference: the daughter, rose dress, long black hair, barefoot. 100% matches the reference.
+@loc_l4-majlis-day for location reference: the space, floor, seating, window, ceiling and materials; every wall is bare. Do not use as a starting frame, do not inherit the composition, the angle or the color — take only the space and the texture.
+@prop_ladder for prop reference: plain wooden step ladder, about 1.5 m, five steps.
+@prop_light-string for prop reference, look only: in this shot the string is about 2 m long with twenty small frosted bulbs, each about 3 cm across, one every 10 cm, unlit, held by two clear adhesive hooks 1.5 m apart at 2.3 m height.
+
+LOCATION MAP
+GEO SPATIAL LAYOUT — STATIC (locked across every shot of this scene):
+- FAR WALL = the wall facing the main view, bare warm-white plaster — the family decorates it in this scene.
+- SEATING = beige floor seating in a U along the west, far and east walls, 0.7 m deep.
+- RUG = a large sand-and-ivory rug in the middle of the floor, up to the seating.
+- WINDOW = a wide window in the WEST wall (screen-left).
+- DOOR + SWITCH = a light-oak door in the EAST wall at the screen-right edge, near the camera; a white switch beside it at 1.2 m.
+- OLIVE TREE = near-right, in a stone pot between the east seating and the door.
+- 180° AXIS: the line through THE GRANDFATHER and THE DAUGHTER at the foot of the ladder. The camera stays SOUTH of it. It never crosses.
+- LIGHT: soft afternoon daylight through the west window and the ceiling spots light the room evenly; soft shadows fall toward the east wall.
+
+FIRST FRAME AND SPATIAL BLOCKING
+All three are in frame at frame one, mid-action; no empty establishing frame.
+Ladder on the rug at x≈50%, front feet at the front edge of the far seating, 1 m from the far wall.
+The son on the fourth step, about 1 m up, faces the wall, leaning toward it, arms raised.
+The grandfather at x≈40%, 0.6 m frame-left of the ladder, both palms on its rails, face tipped up.
+The daughter at x≈60%, 0.7 m frame-right of the ladder, on her toes, arms up, holding the string. Feet bare on the rug. Nobody swaps places; nobody looks into the lens.
+
+FORMAT MODE
+Single continuous take, real-time, 8 seconds.
+
+OPTICS
+63° diagonal field of view, wide lens character, camera 4 m from the ladder. Straight lines rectilinear, deep focus, no telephoto compression.
+
+CAMERA
+Chest height, level, 4 m south of the ladder facing north; locked-off with a slight breathing drift while preserving the blocking.
+
+ACTION TIMING
+0:00 to 0:02 — The daughter lifts the string up with both arms high. The son takes its first end in his right hand.
+0:02 to 0:05 — He presses that end onto the left hook, then presses the other end onto the right hook. The ladder creaks.
+0:05 to 0:08 — He lets go. The string hangs in one wide shallow curve across the middle of the far wall and swings to rest. The daughter drops onto her heels, grinning; the son looks down at her half a beat later; the grandfather smiles up at the string.
+Final frame: the unlit string curving across the far wall, the son on the ladder looking at it, the daughter grinning up, the grandfather's palms on the ladder.
+
+PHYSICS
+The ladder flexes under the son and stands on the rug. The string has weight and sags between the hooks. Each bulb blocks the window light and casts a small matching moving shadow on the wall. Grounded contact shadows under bare feet.
+
+LIGHTING
+Soft daylight from the west window at frame-left and warm-white ceiling downlights; soft shadows fall toward the east wall at frame-right. Bright, clean, high-key, faces fully lit, white thobes bright, soft low contrast, neutral-warm white balance. The string is unlit from first frame to last. No film light, no haze.
+
+AUDIO
+Full room tone with the ladder creaking, bulbs clinking, two small clicks as the ends meet the hooks, bare feet on the rug, a car passing outside. All three stay silent, breath only.
+
+CHARACTER ACTING
+Son: hang the top himself; obstacle: the height; tactic: reach, hook, look down. INNER (unspoken): I've got it.
+Daughter: get her part seen; she cannot reach, so she hands up, then celebrates. Gaze to the string, then to her brother.
+Grandfather: palms stay on the rails while the son is up; slow full blinks; eyes on the string, then the son; a long nose exhale.
+
+STYLE
+Photoreal premium Saudi Ramadan TV-commercial cinema, 8K IMAX register, shot on physical cinema lenses with true perspective and straight lines. Cinematography in the manner of Emmanuel Lubezki and Roger Deakins. Every light in frame comes from a practical source visible in the scene; light direction and contrast follow the scene's lighting block. Colour follows the scene's 60:30:10 hour palette. 180-degree shutter motion blur, 24 fps cinematic cadence. Skin carries pore-level realism — fine hair, uneven tone, capillary flush, pore shadows matching the practical light. Eyes are wet and alive with catchlights; breath is visible; every reaction has a micro-pause before it; every gaze holds a target inside the scene. Real weight and inertia, grounded contact shadows. Composition on thirds and the golden ratio; everyone already moving at frame 1. Characters, props and location identical to their references in every shot. One continuous shot, no montage, no cutaways, no flashbacks, no cinematic transitions. Audio: complete diegetic sound effects only — everything heard is what a microphone standing in the scene would pick up. NO BGM. 16:9.
+
+QUALITY
+Sharp clarity, natural colors, stable picture, no ghosting, no flickering.
+
+POSITIVE CONSTRAINTS
+Exactly THREE people, all barefoot. Exactly ONE ladder on the rug. Exactly ONE string of twenty bulbs, unlit in every frame, in ONE curve on the far wall only; side walls stay bare.
+
+Photoreal. NON-IP. 16:9. 8s. SFX only. NO CGI. Cinematic.
