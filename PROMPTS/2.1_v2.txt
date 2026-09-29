@@ -3,7 +3,7 @@ EXACT 3 CHARACTERS — NO DUPLICATES: the grandfather, the son, the daughter.
 Locked-off wide shot: the son, on a ladder's fourth step, hooks both ends of an unlit string of lights onto the bare far wall of a majlis while the daughter hands it up and the grandfather steadies the ladder. Real-time speed: every movement at natural human speed.
 
 ACTIVE REFERENCES
-@char_c1-grandfather_v1 for character reference: lean elder, neat white beard, white knitted cap, gold-rimmed glasses, white thobe, barefoot. 100% matches the reference.
+@char_c1-grandfather_v1 for character reference: lean elder, neat white beard, white knitted cap, white thobe, barefoot. 100% matches the reference.
 @char_c5-son_v1 for character reference: the son, white thobe, barefoot. 100% matches the reference.
 @char_c6-daughter_v1 for character reference: the daughter, rose dress, long black hair, barefoot. 100% matches the reference.
 @loc_l4-majlis-day for location reference: every wall is bare. Do not use as a starting frame, do not inherit the composition, the angle or the color — take only the space and the texture.
